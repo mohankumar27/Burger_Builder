@@ -10,6 +10,8 @@
 * **Lazy Loading** of components have been done to improve performance
 * **Unit tests** have also been implemented for certain components using **Enzyme** and **Jest**
 
+Output can be viewed [here](https://react-burger-a15b2.web.app/)
+
 ### Screenshots
 
 **Authentication**  | **Burger Builder**
